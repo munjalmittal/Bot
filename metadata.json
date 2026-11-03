@@ -1,0 +1,6 @@
+{
+  "name": "Blacki",
+  "description": "Ultra-fast voice action copilot understanding English, Hindi, and Hinglish. Opens any app or file, controls volume and brightness silently in milliseconds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
